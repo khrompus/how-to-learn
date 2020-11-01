@@ -80,7 +80,7 @@ position: absolute;
   z-index: 4;
 }
 .header__main-illustration {
-  width:765px ;
+  width:765px;
   height: 608px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -90,9 +90,9 @@ position: absolute;
 
 }
 .header__square-pic {
-  background:#2f80ed ;
-  width:568px ;
-  height:568px ;
+  background:#2f80ed;
+  width:568px;
+  height:568px;
   position: absolute;
   top:0;
   right:0;
@@ -315,7 +315,7 @@ line-height: 1.15;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 0 auto 90px ;
+  margin: 0 auto 90px;
   z-index: 1;
 
 
