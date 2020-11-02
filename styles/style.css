@@ -380,10 +380,7 @@ margin:60px auto 40px;
   justify-content: space-between;
 
 }
-.logo_place_footer{
-  width: 183px;
-  height: 35px;
-}
+
 .footer__author{
 margin:18px 0;
   line-height: 25px;
@@ -435,5 +432,7 @@ margin:18px 0;
 }
 .logo_place_footer{
   background: url("../images/logo_place_footer.svg");
+  width: 183px;
+  height: 35px;
 }
 
