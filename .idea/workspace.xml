@@ -19,12 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af247727-99fc-40aa-aa3a-3380e8ceca73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+    <list default="true" id="af247727-99fc-40aa-aa3a-3380e8ceca73" name="Default Changelist" comment="BEM">
+      <change afterPath="$PROJECT_DIR$/blocks/animation/rotate/rotate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +38,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jalKlJvzStfdHvJHb71zntgZ2d" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -54,6 +63,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\animation\_place" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,8 +88,23 @@
       <workItem from="1604843713346" duration="468000" />
       <workItem from="1604844329746" duration="20000" />
       <workItem from="1605369654581" duration="7000" />
-      <workItem from="1605611176567" duration="3943000" />
+      <workItem from="1605611176567" duration="4741000" />
     </task>
+    <task id="LOCAL-00001" summary="BEM">
+      <created>1605622375362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605622375362</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BEM">
+      <created>1605622453113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605622453113</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,11 +121,20 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="BEM" />
+    <option name="LAST_COMMIT_MESSAGE" value="BEM" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="805" y="231" key="SettingsEditor" timestamp="1604241071047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="231" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604241071047" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605622474515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605622474515" />
     <state x="495" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1604050806463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
