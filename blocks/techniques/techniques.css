@@ -1,0 +1,14 @@
+.techniques{
+  margin-top:100px;
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 80%;
+  justify-content: center;
+}
+
+
+
+
+
+

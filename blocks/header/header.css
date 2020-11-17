@@ -7,45 +7,5 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  /* выше установили ограничения для секции */
-}
-.header__title {
-  align-items: center;
-  margin-left: 64px;
-  width: 730px;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  line-height: 96px;
-  font-size: 102px;
-  font-weight: bold;
-  z-index: 2;
-}
-.header__subtitle {
-  width: 388px;
-  position: absolute;
-  left: 64px;
-  bottom: 30px;
-  z-index: 3;
-  line-height: 25px;
-  font-size: 18px;
-  font-weight: normal;
-  margin: 0;
-}
-.header__main-illustration {
-  width: 765px;
-  height: 608px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-}
-.header__square-pic {
-  background: #2f80ed;
-  width: 568px;
-  height: 568px;
-  position: absolute;
-  top: 0;
-  right: 0;
+  overflow: hidden;
 }
