@@ -1,6 +1,6 @@
 .feynman__link:hover {
-  color: pink;
   transition: 0.3s linear;
+  opacity: .5;
 }
 .feynman__link {
   line-height: 51px;

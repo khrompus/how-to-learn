@@ -20,7 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af247727-99fc-40aa-aa3a-3380e8ceca73" name="Default Changelist" comment="rev">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/resources/__link/resources__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/animation/rotation/_place/header__square-pic_rotation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/animation/rotation/_place/kaufman__triangle_rotation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/animation/rotation/rotation.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rotation/rotation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/feynman/__link/feynman__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/__link/feynman__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-heading/footer__column-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-heading/footer__column-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column_content_copyright/footer__column_content_copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column_content_social/footer__column_content_social.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/_social/footer__column_content_social.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__link/header__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__title/header__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section/_theme/section-subtitle_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section/_theme/section-title_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section/section-subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__iframe/video_iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +86,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks" />
-      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\khan" />
-      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\animation\_place" />
+      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\footer\__column\_content\_social" />
+      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\footer\__column\_content\copyright" />
+      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\footer\__column\_content" />
+      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\section-title\_theme" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,7 +111,8 @@
       <workItem from="1604843713346" duration="468000" />
       <workItem from="1604844329746" duration="20000" />
       <workItem from="1605369654581" duration="7000" />
-      <workItem from="1605611176567" duration="28258000" />
+      <workItem from="1605611176567" duration="29111000" />
+      <workItem from="1605696415149" duration="3928000" />
     </task>
     <task id="LOCAL-00001" summary="BEM">
       <created>1605622375362</created>
@@ -131,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605652818540</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="rev">
+      <created>1605653352289</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605653352289</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +179,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -159,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="231" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605645887827" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605652823291">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605653356466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605652823291" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605653356466" />
     <state x="495" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1605645366109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
