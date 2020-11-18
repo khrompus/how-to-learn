@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af247727-99fc-40aa-aa3a-3380e8ceca73" name="Default Changelist" comment="finish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/feynman/feynman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/feynman.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/_content/_social/footer__column_content_social.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_social.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/__link/resources__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__link/resources__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rotation/rotation.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rotation/rotation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +71,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\footer\__column\_content" />
       <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks" />
       <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\footer\__column\_content\_social" />
       <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\footer\__column\_content\copyright" />
-      <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\footer\__column\_content" />
       <recent name="C:\Users\vezer\my-first-project\how-to-learn\blocks\section-title\_theme" />
     </key>
   </component>
@@ -90,7 +98,8 @@
       <workItem from="1604844329746" duration="20000" />
       <workItem from="1605369654581" duration="7000" />
       <workItem from="1605611176567" duration="29111000" />
-      <workItem from="1605696415149" duration="4305000" />
+      <workItem from="1605696415149" duration="4931000" />
+      <workItem from="1605724204425" duration="1516000" />
     </task>
     <task id="LOCAL-00001" summary="BEM">
       <created>1605622375362</created>
@@ -148,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605700924392</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finish">
+      <created>1605701263725</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605701263725</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,10 +194,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="231" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605645887827" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605700942108">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605701267266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605700942108" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605701267266" />
     <state x="495" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1605645366109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
